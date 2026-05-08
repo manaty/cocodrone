@@ -26,3 +26,6 @@ Flight controller handles:
 ## Main Wiring Diagram
 
 ![Pixhawk Wiring Diagram](Images/pixhawk_wiring_diagram.png)
+
+## Gripper Wiring Diagram
+![Gripper Wiring Diagram](Images/esp32cam-Servo_gripper.png)
