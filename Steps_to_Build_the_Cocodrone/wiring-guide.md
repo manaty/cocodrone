@@ -25,4 +25,4 @@ Flight controller handles:
 
 ## Main Wiring Diagram
 
-![Pixhawk Wiring Diagram](../Images/pixhawk_wiring_diagram.png)
+![Pixhawk Wiring Diagram](Images/pixhawk_wiring_diagram.png)
