@@ -79,6 +79,18 @@ Mount Motor at the end part of the legs also using the screw.
 
 ## 3. Adding ESC
 
-Connect Esc to each motor, 2 motor must rotate clockwise then the other 2 must roate counter-clockwise. After connecting the motors to the ESC connect the ESC to the power distribution Board.
+Connect Esc to each motor, 2 motor must rotate clockwise then the other 2 must rotate counter-clockwise. After connecting the motors to the ESC connect the ESC to the power distribution Board.
 
 ![Connecting Esc](Images/ESC.png)
+
+## 4. Main Board Frame
+
+On the top of the of the main frame align the main board farme covering the power distribution board
+
+![Main Board](Images/Main_board.png)
+
+## 5. Pixhawk Set-up
+
+Placing the pixhawk module on the center part of the main board, same with M10 GPS and the ESP8266.
+
+![Drone](Images/Drone.png)
